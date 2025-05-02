@@ -11,6 +11,8 @@
 
 - 🤝 You can see my tutorials on my YouTube channel [Borna Devil ](https://www.youtube.com/@BornaDevil)
 
+- 🤝 Join to my Discord channel   Devil commiunity  ](https://discord.gg/ufh2Qf7AN5)
+
 - 👨‍💻 All of my projects are available at [https://github.com/BornaDevil)
 
 - 💬 Ask me about **HTML css and python**
