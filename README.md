@@ -1,4 +1,4 @@
-![logo](https://github.com/BornaDevil/BornaDevil/blob/main/Devil.jpg)
+![logo]([https://github.com/BornaDevil/BornaDevil/blob/main/Devil.jpg](https://github.com/BornaDevil/BornaDevil/blob/main/images.png))
 <h1 align="center">Hi 👋, I'm Borna</h1>
 <h3 align="center">A python coder cyber seciurity coder from Iran</h3>
 
